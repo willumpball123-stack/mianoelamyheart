@@ -26,7 +26,7 @@ export default function TextFooter() {
       {/* Copyright */}
       <p className="absolute bottom-5 right-5 text-white text-sm opacity-15 hover:opacity-50">
         © {new Date().getFullYear()}{" "}
-        <Link href="https://iloveloveko.com">iloveloveko</Link>
+        <Link href="https://open.spotify.com/playlist/31gdC6NIP03V0gfZki7Lij?si=90e9379d970d4a03&pt=107fe4d22acdd9e7f51e85d1467b1a5b">iloveloveko</Link>
       </p>
     </>
   );
