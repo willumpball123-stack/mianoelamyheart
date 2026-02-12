@@ -132,7 +132,7 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Will you be my Valentine(i beg im on my knees) ?
+              Will you be my Valentine ? (i beg im on my knees) 
             </h2>
             <Image
               src="/sad_hamster.png"
